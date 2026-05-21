@@ -1,0 +1,7 @@
+user1="Alice"
+user2="Bob"
+echo "$user1: Hi $user2, how are you?"
+echo "$user2: Hi $user1, I'm doing well! How about you?"
+echo "$user1: I'm good too, thanks for asking!"
+echo "$user2: That's great to hear! Do you want to grab lunch later?"
+echo "$user1: Sure, that sounds like a plan!"
